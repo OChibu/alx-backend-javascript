@@ -1,0 +1,1 @@
+This repository contains code examples and exercises related to data manipulation using ES6 features in JavaScript. The goal is to demonstrate how to work with arrays, objects, and other data structures efficiently.
