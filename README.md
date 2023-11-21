@@ -1,1 +1,1 @@
-# alx-backend-javascript
+Es6 promise

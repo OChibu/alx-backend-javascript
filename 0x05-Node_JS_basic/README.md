@@ -1,0 +1,1 @@
+Welcome to the Node.js Basics module. This module is designed to provide a comprehensive guide to understanding and working with Node.js. Node.js is a powerful runtime that allows developers to build scalable and efficient server-side applications using JavaScript. This module covers the fundamentals of Node.js, asynchronous programming, modules, and practical examples.
